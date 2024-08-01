@@ -33,12 +33,13 @@ The main objective of this project was to explore the most principals queries us
 
 BACI_HS17_Y2021_V202301 : csv file used contained detailed informations about bilateral trade exchange by providing :
 
-t: Year
-k : Product category (HS 6-digit code)
-i : Exporter (ISO 3-digit country code)
-j : Importer (ISO 3-digit country code)
-v : Value of trade flow (in thousands of USD)
-q : Quantity (in metric tons)
+- t: Year
+- k : Product category (HS 6-digit code)
+- i : Exporter (ISO 3-digit country code)
+- j : Importer (ISO 3-digit country code)
+- v : Value of trade flow (in thousands of USD)
+- q : Quantity (in metric tons)
+
 Country codes :
 
 Associates the ISO 3-digit country codes to country names
